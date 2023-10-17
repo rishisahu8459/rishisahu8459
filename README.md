@@ -24,7 +24,6 @@
 - **Programming Languages:** Java, Kotlin, C++, JavaScript, HTML, CSS, Python, React, GO, RUBY
 - **Technical Skills:** Web Development, Object-Oriented Programming, Android/Product/Mobile Development, NoSQL, AWS, HTTP, Linux
 - **Soft Skills:** Collaborative and Effective Communicator, Highly Motivated, Managing Multiple Workflows
-- **LeetCode:** [400+ Questions](https://leetcode.com/Rishisahu112)
 - **GitHub:** [github.com/rishisahu8459](https://github.com/rishisahu8459)
 
 ---
