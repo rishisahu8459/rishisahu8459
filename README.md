@@ -1,7 +1,7 @@
 <h1 align="center">Rishabh Sahu</h1>
 
 <p align="center">
-  <em>CSE Undergraduate | Maharashtra, India</em>
+  <em>CSE Undergraduate 2024| Maharashtra, India</em>
 </p>
 
 <p align="center">
