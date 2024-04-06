@@ -1,8 +1,6 @@
 ![RIshabh Sahu (2)](https://github.com/rishisahu8459/rishisahu8459/assets/49360938/ca4376a6-f0e5-4354-b43e-96059e51f93f)
-
 <h1 align="center">Hi 👋, I'm Rishabh Sahu</h1>
 <h3 align="center">Software/Frontend Developer: Pushing Boundaries, Defining Experiences</h3>
-
 
 - 🌱 I’m currently learning **FrontEnd for WEB 3.0, Blockchain, Solidity**
 
@@ -23,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishisahu8459&show_icons=true&locale=en&layout=compact" alt="rishisahu8459" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishisahu8459&show_icons=true&locale=en" alt="rishisahu8459" /></p>
-![leetcodestat](https://github.com/rishisahu8459/rishisahu8459/assets/49360938/67b8886d-ffc0-4c1d-b634-de85d95fac39)
+<p> <img align="center" src="https://i.ibb.co/hRK5SFv/leetcodestat.png" alt="leetcodestat" border="0"></p>
 
 
