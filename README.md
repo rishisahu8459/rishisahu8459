@@ -23,5 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishisahu8459&show_icons=true&locale=en&layout=compact" alt="rishisahu8459" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishisahu8459&show_icons=true&locale=en" alt="rishisahu8459" /></p>
-![image](https://github.com/rishisahu8459/rishisahu8459/assets/49360938/6111137a-4af6-481f-b8a8-ffda47fa41d7)
+![leetcodestat](https://github.com/rishisahu8459/rishisahu8459/assets/49360938/67b8886d-ffc0-4c1d-b634-de85d95fac39)
+
 
