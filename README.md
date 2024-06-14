@@ -1,6 +1,6 @@
 ![RIshabh Sahu (2)](https://github.com/rishisahu8459/rishisahu8459/assets/49360938/ca4376a6-f0e5-4354-b43e-96059e51f93f)
 <h1 align="center">Hi 👋, I'm Rishabh Sahu</h1>
-<h3 align="center">Software/Frontend Developer: Pushing Boundaries, Defining Experiences</h3>
+<h3 align="center">Software Developer: Pushing Boundaries, Defining Experiences</h3>
 
 - 🌱 I’m currently learning **FrontEnd for WEB 3.0, Blockchain, Solidity**
 
