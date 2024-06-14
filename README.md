@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sahu</h1>
 <h3 align="center">Software Developer: Pushing Boundaries, Defining Experiences</h3>
 
-- 🌱 I’m currently learning **FrontEnd for WEB 3.0, Blockchain, Solidity**
+- 🌱 I’m currently learning **Android Development, Jetpack Compose,FrontEnd for WEB 3.0, Blockchain, Solidity**
 
-- 👯 I’m looking to collaborate on **FrontEnd for Blockchain**
+- 👯 I’m looking to collaborate on **Softwarae development**
 
 - 💬 Ask me about **Javascript, React, Android development, Kotlin.**
 
